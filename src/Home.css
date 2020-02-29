@@ -1,0 +1,52 @@
+
+
+.Home-bg{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Navbar{
+    height: 83px;
+    width: 100%;
+    display: flex;
+}
+
+.Nav-left{
+    width: 30%;
+    height: 100%;
+}
+
+.Nav-right{
+    width: 70%;
+    height: 100%;
+}
+
+.Nav-ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: black;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5em;
+}
+
+.Entrance-txt{
+    height: 87vh;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2em;
+}
+
+li:hover{
+    color: thistle;
+    cursor: pointer;
+}

@@ -1,0 +1,49 @@
+.Achievements-bg{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Achievements-menu{
+    height: 87vh;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Todolist{
+    height: 20%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 0.9em;
+}
+
+.Todolist p{
+    padding: 40px;
+    background: aquamarine;
+    border-radius: 10px 100px / 120px;
+    cursor: pointer;
+}
+
+.Force4 p{
+    padding: 40px;
+    background: lightblue;
+    border-radius: 10px 100px / 120px;
+    cursor: pointer;
+}
+
+.Force4{
+    height: 20%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 0.9em;
+}

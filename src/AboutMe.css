@@ -1,0 +1,88 @@
+
+
+.About-bg{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.About-menu{
+    height: 87vh;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: 'Fredericka the Great', cursive;
+    color: black;
+    font-size: 1.2em;
+}
+
+.About-menu a{
+    text-decoration: none;
+    color: black;
+}
+
+.About-one{
+    width: 60%;
+    height: 10%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.About-two{
+    width: 80%;
+    height: 10%;
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.About-three{
+    width: 10%;
+    height: 10%;
+}
+
+.About-four{
+    width: 80%;
+    height: 10%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.About-five{
+    width: 10%;
+    height: 10%;
+}
+
+.About-six{
+    width: 30%;
+    height: 10%;
+}
+
+.About-six p {
+    background: khaki;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.About-two p {
+    background: salmon; 
+    padding: 40px; 
+    cursor: pointer;
+}
+
+.About-four p {
+    background: skyblue; 
+    padding: 40px; 
+    cursor: pointer;
+}
+
+.About-one p {
+    background: mediumaquamarine; 
+    padding: 30px; 
+    cursor: pointer;
+}
